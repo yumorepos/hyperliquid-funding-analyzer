@@ -1,5 +1,8 @@
 # Hyperliquid Funding Rate Analyzer
 
+[![CI](https://github.com/yumorepos/hyperliquid-funding-analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/yumorepos/hyperliquid-funding-analyzer/actions/workflows/ci.yml)
+
+
 **Real-time analysis of perpetual funding rates on Hyperliquid DEX**
 
 A Python CLI tool that identifies arbitrage opportunities by analyzing funding rate patterns across all perpetual markets. Built with real API integration, statistical analysis, and clean output formatting.
