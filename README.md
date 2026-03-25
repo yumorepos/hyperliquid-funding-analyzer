@@ -1,7 +1,8 @@
 # Hyperliquid Funding Rate Analyzer
 
-[![CI](https://github.com/yumorepos/hyperliquid-funding-analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/yumorepos/hyperliquid-funding-analyzer/actions/workflows/ci.yml)
+> **Role: Support tool** — Standalone CLI for funding rate analysis. Part of the [autonomous-trading-system](https://github.com/yumorepos/autonomous-trading-system) research ecosystem.
 
+[![CI](https://github.com/yumorepos/hyperliquid-funding-analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/yumorepos/hyperliquid-funding-analyzer/actions/workflows/ci.yml)
 
 **Real-time analysis of perpetual funding rates on Hyperliquid DEX**
 
